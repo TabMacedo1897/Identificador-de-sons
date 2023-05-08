@@ -1,0 +1,33 @@
+body{
+  width: 100%;
+  min-height: 100%;
+  background: linear-gradient(90deg, #e0c0c0 0%, #12c4ec 100%);
+  display: inline;
+  justify-content: center;
+  align-items: center;
+  color:white
+}
+#titulo{
+  font-family: 'Rampart One', cursive;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  font-weight: 'bold';
+}
+.header_div p{
+  color: white;
+  letter-spacing: 2px;
+  font-size: 20px;
+  
+}
+.copy_right_footer{
+  position: fixed;
+  color: #e0c0c0;
+  bottom: 0;
+  width: 100%;
+  font-size: 20px;
+  background-color: rgba(red, green, blue, alpha);
+  text-align: center;
+  text-shadow: #000 2px 3px 2px;
+}
